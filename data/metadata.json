@@ -1,0 +1,12 @@
+[
+    {
+        "page": "home",
+        "title": "Some title",
+        "description": "Some description"
+    },
+    {
+        "page": "about",
+        "title": "Some title",
+        "description": "Some description"
+    }
+]
