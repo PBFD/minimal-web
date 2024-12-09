@@ -16,6 +16,12 @@
 
 ### Development 
 
+- Clone or download this repository
+  - For clone: 
+    - Install [git](https://git-scm.com/) 
+    - Run this command ``` git clone https://github.com/PBFD/minimal-web.git ``` 
+  - For download:
+    - Navigate to code button in this repository and Download ZIP file
 - Install [Node](https://nodejs.org/en) 
   - Ref: https://phoenixnap.com/kb/install-node-js-npm-on-windows
 - Install necessary packages   ``` npm install ``` 
