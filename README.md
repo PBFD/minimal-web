@@ -10,5 +10,5 @@
 
 ### Commands
 
-- ```js  npm run start ```: Run development 
-- ```js npm run make:page ```: Create page 
+- ``` npm run start ```: Run development 
+- ``` npm run make:page ```: Create page 
