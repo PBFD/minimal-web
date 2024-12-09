@@ -2,7 +2,7 @@
   "name": "html",
   "version": "1.0.0",
   "description": "Boilerplate for minimal static site",
-   "type": "module",
+  "type": "module",
   "scripts": {
     "make:page": "plop --plopfile ./generator/index.js"
   },
@@ -15,6 +15,7 @@
   "author": "PBFD",
   "license": "ISC",
   "devDependencies": {
-    "plop": "^4.0.1"
+    "plop": "^4.0.1",
+    "prettier": "^3.4.2"
   }
 }
