@@ -1,0 +1,20 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "Boilerplate for minimal static site",
+   "type": "module",
+  "scripts": {
+    "make:page": "plop --plopfile ./generator/index.js"
+  },
+  "keywords": [
+    "static",
+    "html",
+    "css",
+    "Boilerplate"
+  ],
+  "author": "PBFD",
+  "license": "ISC",
+  "devDependencies": {
+    "plop": "^4.0.1"
+  }
+}
